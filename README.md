@@ -1,6 +1,6 @@
 # 512MBSverige
 **Kolla så att använder rätt profil för rätt filament! **
-
+Detta är för stock! Alltså inte för någon LGX BondTech Extruder etc...
 
 Dessa profiler är för Prusa **MK3S+/MK3** i Slicern Cura. 
 **Följande start G-Koder skall användas för bästa resultat. **
